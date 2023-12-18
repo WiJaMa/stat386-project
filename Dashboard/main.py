@@ -5,7 +5,7 @@ import math as math
 import streamlit as st
 import plotly.express as px
 
-df = pd.read_csv('keqiang.csv')
+df = pd.read_csv('../keqiang.csv')
 
 df.rename(columns = {'energy_cons': 'Energy Consumption',
                     'rail_cargo': 'Railway Cargo',
