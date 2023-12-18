@@ -1,0 +1,1 @@
+This is the repository for information about my project STAT 386 class at BYU. Click [here](https://wijama.org/2023/12/15/Li-Keqiang-Index-Introduction-and-EDA.html) for an introduction to the project and [here](https://wijama.org/2023/12/17/Li-Keqiang-Index-Analysis-Discussion.html) to see what I learned.
