@@ -13,3 +13,8 @@ jakey martydart, [12/17/2023 11:11 PM]
 The default image for the site header is a random image from Unsplash. The default image for the blog post is from Unsplash by Mohamed Elsayed. Students in Stat 386 using this theme should replace both images with their own.
 ```
 This was in reference to the default text on the bottom of the website, which I had not changed at the time.
+
+Feedback from Jack Martindale (my dad): "Who is the intended audience for the blog posts? Other statistics students who would naturally already know what heteroskedasticity means without having to look it up?" My dad also told me about a lot of typos.
+
+
+Like the previous blog post, I changed second-level headings to third-level headings to make them more distinct from top-level headings. I fixed the typos as well.
