@@ -30,7 +30,7 @@ else:
 
 st.subheader("Bivariate Exploration")
 st.markdown('Examine quantitative variables in relation to each other. [For examples, see pair plot from EDA](https://wijama.org/2023/12/15/Li-Keqiang-Index-Introduction-and-EDA.html#:~:text=pair%20plot)')
-scatter_var1, scatter_var2 = st.multiselect('Select Two Variables', ['Year','Democracy Index','Energy Consumption','Railway Cargo','Percent Urban','Percent Services','GDP'], ['Railway Cargo', 'GDP'])
+scatter_var1, scatter_var2 = st.multiselect('Select Two Variables', ['Year','Democracy Index','Energy Consumption','Railway Cargo','Percent Urban','Percent Services','GDP'], ['Railway Cargo', 'GDP'], max_selections = 2)
 if st.checkbox(f'Log {scatter_var1}'):
     scatter_series1 = [math.log(item) for item in df[scatter_var1]]
 else: 
