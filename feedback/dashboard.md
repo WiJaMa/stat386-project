@@ -27,3 +27,8 @@ so like I said, if you had to add something
 jakey martydart, [12/17/2023 11:13 PM]
 also I just now used a bottle brush to clean my hydroflask and it changed my life
 ```
+
+Isaac Aguilar: Hey William , I really liked your dashboard as a Statistical Analysis tool. You can clearly see the variance of each variable, its distribution, the correlation between two variables, and missing points. I loved it. I would just recommend to add a decription of the purpose of your dashboard te help the audience know what they can expect from the Dashboard. Also, in the Bivariate Exploration I would restrict the ability to select only 2 values. Right now you can select more than two and it breaks the graph. You can put a warning message to state only to select two.
+
+
+As my brother mentioned, the blog post explains pretty well what to look for and as I don't expect people to look at the dashobard without having seen the blog posts, I left it as it was. I fixed the multiselect tool for the bivariate analysis (I could have sworn it was fine before, though) and added a link to the EDA blog post so that people will be able to know what the dashboard is for.
