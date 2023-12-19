@@ -57,3 +57,11 @@ you don't treat the code the same way
 jakey martydart, [12/17/2023 11:10 PM]
 would be nice if you did
 ```
+
+Sam Lee's feedback:
+Hey William, I looked through your blog and overall it looks pretty good! I appreciated your introduction. I thought it was concise enough to get the point. I thought you did a good job of explaining the World Bank API and I liked how you linked all the indicators that you used. The only thing that I would suggest is add a navigational component to the markdown file that allows you to navigate to each subsection of page.
+
+As for your EDA, I think it looks great. Although I think most stats-savvy readers may be able to pick up what's going on here, I think some additional explanation could be useful. For example, though you show that a log transformation makes the data more Normal, why is that important? Additionally there is a small typo, "Whie there is nothing we can do about this at this point": "Whie" should be "While"
+
+
+I went through my post and fixed all the typos that people brought up. I changed the second-level headings to third-level headings to make them stand out more. from the top-level headings. Once I fixed the problem with my theme, my brother's feedback about the image and the css was automatically resolved. I couldn't figure out what intermediary steps my brother was missing in the merge so I left that part as is. I also felt that adding code results would detract from the actual steps being taken so I didn't add that. I couldn't find a way to add a navigational component to my markdown file, so I didn't do anything with that feedback. I added a brief sentence to explain why normality was good.
