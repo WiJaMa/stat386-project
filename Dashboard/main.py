@@ -23,7 +23,7 @@ st.markdown('Examine the univariate distribution of each quantitative variable. 
 selected_var = st.selectbox('Select a Variable', ['Year','Democracy Index','Energy Consumption','Railway Cargo','Percent Urban','Percent Services','GDP'])
 hist_series = df[selected_var]
 
-if st.checkbox('Log {selected_var}'):
+if st.checkbox(f'Log {selected_var}'):
     fig = px.histogram(x= [math.log(item) for item in hist_series])
     st.plotly_chart(fig)
 else:
